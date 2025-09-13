@@ -443,6 +443,7 @@ section {
 .titlepage__left {
 	width: 350px;
 	position: relative;
+	margin-bottom: 20px;
 	display: flex;
 	flex-direction: column;
 	flex-wrap: wrap;
