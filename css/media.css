@@ -158,8 +158,12 @@
 	.logo {
 		order: 2;
 		margin-right: 0;
+		margin-left: auto;
 	}
 
+	.footer__left .logo {
+		margin-left: 0;
+	}
 	.about__right-item {
 		font-size: 16px;
 		line-height: 16px;
