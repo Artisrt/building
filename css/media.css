@@ -155,7 +155,7 @@
 		display: none;
 	}
 
-	.logo {
+	.header__logo {
 		order: 2;
 		margin-right: 0;
 		margin-left: auto;
